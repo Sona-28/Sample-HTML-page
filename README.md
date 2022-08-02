@@ -1,2 +1,2 @@
 # Sample HTML page
- A sample page i created ehile learninh HTML
+ A sample page I created while learning HTML
